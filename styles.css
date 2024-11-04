@@ -3,8 +3,29 @@ styles.css
 body {
     color: white;
     background: black;
+    margin:0px;
+    ont-family: "chaka petch", sans-serif;
 }
+heaer {
+  boer-bottom: solid 2px rgb(42, 116, 212);
+paing: 20px;
+font-size: 32px;
+ color: rgb(42, 122, 228);
+}
+ section {
+    background:rgb(223, 194, 253);
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+ }
+   .chamaa-texto {
+   margin-right: 5%;
+   }
+ 
+      h1{
+          font-size: 40px;
+      }
 
-
-
-
+      p {
+          font-size: 20px;
+      }
